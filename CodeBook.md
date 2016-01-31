@@ -43,3 +43,9 @@ There is R script called ```run_analysis.R``` that does the following.
 6. Loads and merges training and test subjects ('train/subject_train.txt', 'test/subject_test.txt').
 7. Binds subjects, activities, and measurments into one dataset using bind_cols() function from dplyr package.
 8. From the data set in step 7, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+## Result tidy dataset columns
+
+1. Activity
+2. Subject ID
+3-68. Average of each variable (measurements on the mean and standard deviation for each measurement) for each activity and each subject
