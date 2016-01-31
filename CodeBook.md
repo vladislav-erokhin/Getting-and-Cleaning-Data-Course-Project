@@ -48,4 +48,5 @@ There is R script called ```run_analysis.R``` that does the following.
 
 1. Activity
 2. Subject ID
+
 3-68. Average of each variable (measurements on the mean and standard deviation for each measurement) for each activity and each subject
