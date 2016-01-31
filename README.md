@@ -12,7 +12,7 @@ You should create one R script called run_analysis.R that does the following.
 
 ## Steps to run
 
-1. Download the data for the project and unzip it in the R working directory. 
+1. Download the data for the project and unzip it in the R working directory. So working directory sould contain a directory ```UCI HAR Dataset```.
 2. Put ```run_analysis.R``` in the R working directory.
 3. Run ```source("run_analysis.R")```.
 4. The result is ```tidy.txt``` in your working directory.
